@@ -21,7 +21,7 @@ module.exports = {
   context: path.resolve(__dirname, 'src'),
   entry: './index.js',
   output: {
-    filename: 'wideFeedImages.user.js',
+    filename: 'favoritesButton.user.js',
     path: path.resolve(__dirname, 'dist')
   },
   optimization: createOptimization(),
