@@ -7,8 +7,8 @@
 // @supportURL   https://dtf.ru/u/197370-le-mort-joyeux
 // @match        https://dtf.ru/*
 // @icon         https://www.google.com/s2/favicons?domain=dtf.ru
-// @updateURL    https://github.com/ureshii-ww/dtf-favorites-button/blob/master/dist/favoritesButton.user.js
-// @downloadURL  https://github.com/ureshii-ww/dtf-favorites-button/blob/master/dist/favoritesButton.user.js
+// @updateURL    https://github.com/ureshii-ww/dtf-favorites-button/raw/master/dist/favoritesButton.user.js
+// @downloadURL  https://github.com/ureshii-ww/dtf-favorites-button/raw/master/dist/favoritesButton.user.js
 // @run-at       document-end
 // @grant        none
 // @license      https://www.gnu.org/licenses/gpl-3.0.en.html
